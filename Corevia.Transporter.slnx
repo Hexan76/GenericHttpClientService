@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/Abstractions/">
+    <Project Path="Abstractions/Corevia.Transporter.Abstractions.csproj" />
+  </Folder>
+  <Folder Name="/HttpClient/">
+    <Project Path="Corevia.Transporter.Http/Corevia.Transporter.Http.csproj" Id="db17eb2c-af1d-4bbe-a0c2-016be5a5b7cc" />
+  </Folder>
+  <Folder Name="/GRPC/">
+    <Project Path="Corevia.Transporter.GRPC/Corevia.Transporter.GRPC.csproj" />
+  </Folder>
+</Solution>
